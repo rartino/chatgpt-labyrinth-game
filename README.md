@@ -1,4 +1,4 @@
-# chatgpt-labyrinth-game
+# ChatGPT Labyrinth Game
 
 This is a small labyrinth game in python, using a custom map "map.txt" that can be edited.
 
